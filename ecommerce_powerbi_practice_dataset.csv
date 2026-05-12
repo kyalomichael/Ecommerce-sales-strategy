@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Customer,Region,Product_Category,Product,Quantity,Unit_Price,Discount,Sales,Profit
+1001,4/13/2025,Customer_11,East,Office Supplies,Notebook,4,408.88,0.15,1390.19,373.07
+1002,2/21/2025,Customer_16,North,Electronics,Tablet,2,965.4,0.2,1544.64,425.05
+1003,4/3/2025,Customer_73,North,Electronics,Phone,3,15.51,0,46.53,7.23
+1004,1/15/2025,Customer_59,South,Electronics,Laptop,1,406.86,0.1,366.17,43.65
+1005,4/17/2025,Customer_70,South,Office Supplies,Notebook,5,483.82,0,2419.1,479.19
+1006,3/13/2025,Customer_3,East,Office Supplies,Stapler,5,649.5,0.05,3085.12,857.94
+1007,3/2/2025,Customer_20,South,Electronics,Laptop,4,1104.63,0.15,3755.74,385.59
+1008,1/21/2025,Customer_59,East,Electronics,Phone,2,422.15,0.05,802.08,165.02
+1009,4/13/2025,Customer_36,South,Electronics,Laptop,1,422.87,0,422.87,87.91
+1010,3/24/2025,Customer_19,North,Office Supplies,Pen Pack,2,887.63,0,1775.26,414.13
+1011,3/28/2025,Customer_67,East,Office Supplies,Stapler,1,548.14,0.2,438.51,36.35
+1012,3/16/2025,Customer_19,East,Electronics,Headphones,4,277.28,0.1,998.21,228.55
+1013,3/16/2025,Customer_20,North,Office Supplies,Printer Paper,4,548.4,0.1,1974.24,547.37
+1014,3/29/2025,Customer_71,East,Electronics,Phone,5,177.62,0.05,843.7,80.08
+1015,4/27/2025,Customer_52,East,Office Supplies,Stapler,2,219.9,0.15,373.83,40.89
+1016,4/10/2025,Customer_33,South,Furniture,Table,5,603.06,0.1,2713.77,794.72
+1017,4/14/2025,Customer_40,East,Electronics,Phone,2,508.52,0.2,813.63,77.49
+1018,1/24/2025,Customer_39,West,Furniture,Chair,5,1098.67,0.05,5218.68,1375.63
+1019,1/3/2025,Customer_1,North,Electronics,Headphones,3,441.25,0.05,1257.56,217.65
+1020,1/22/2025,Customer_11,South,Electronics,Tablet,3,700.9,0.2,1682.16,188.08
+1021,2/22/2025,Customer_57,South,Furniture,Table,3,762.39,0.15,1944.09,520.41
+1022,1/2/2025,Customer_50,West,Electronics,Headphones,3,25.58,0.2,61.39,9.9
+1023,3/29/2025,Customer_23,North,Office Supplies,Notebook,1,799.61,0.15,679.67,121.46
+1024,4/18/2025,Customer_31,North,Furniture,Chair,3,221.86,0.2,532.46,74.44
+1025,1/30/2025,Customer_42,South,Office Supplies,Printer Paper,4,1153.67,0.2,3691.74,731.84
+1026,2/7/2025,Customer_7,East,Office Supplies,Printer Paper,4,186.91,0,747.64,67.95
+1027,1/2/2025,Customer_16,South,Office Supplies,Pen Pack,1,503.4,0.05,478.23,70.67
+1028,3/5/2025,Customer_60,North,Office Supplies,Notebook,3,111.57,0.2,267.77,78.28
+1029,3/1/2025,Customer_2,West,Electronics,Phone,3,1196.28,0.2,2871.07,328.83
+1030,1/21/2025,Customer_1,South,Furniture,Chair,3,607.61,0.1,1640.55,351.38
+1031,2/2/2025,Customer_48,North,Electronics,Laptop,5,718.51,0.05,3412.92,448.11
+1032,3/17/2025,Customer_12,South,Furniture,Table,2,89.82,0.1,161.68,39.35
+1033,2/27/2025,Customer_69,East,Furniture,Table,5,902.45,0.05,4286.64,354.58
+1034,1/22/2025,Customer_37,South,Electronics,Tablet,2,259.79,0.1,467.62,136.76
+1035,4/18/2025,Customer_32,South,Furniture,Desk,3,1078.68,0.2,2588.83,423.14
+1036,3/30/2025,Customer_9,North,Office Supplies,Printer Paper,3,254.12,0.2,609.89,66.49
+1037,2/18/2025,Customer_19,North,Office Supplies,Notebook,5,236.92,0,1184.6,81
+1038,4/1/2025,Customer_48,North,Office Supplies,Pen Pack,5,53.49,0.1,240.7,22.25
+1039,2/28/2025,Customer_3,South,Office Supplies,Pen Pack,2,571.76,0.15,971.99,174.9
+1040,2/11/2025,Customer_20,East,Electronics,Headphones,4,682.16,0,2728.64,366.32
+1041,4/2/2025,Customer_24,West,Furniture,Table,2,88.19,0.1,158.74,40.83
+1042,3/1/2025,Customer_54,West,Office Supplies,Pen Pack,5,932.88,0.1,4197.96,662.11
+1043,3/21/2025,Customer_33,North,Office Supplies,Printer Paper,5,549.41,0,2747.05,308.16
+1044,1/15/2025,Customer_24,North,Electronics,Phone,1,634.02,0.2,507.22,103.62
+1045,3/3/2025,Customer_75,South,Electronics,Tablet,5,534.51,0.1,2405.3,545.27
+1046,3/3/2025,Customer_72,West,Furniture,Table,1,486.91,0.2,389.53,35.74
+1047,2/16/2025,Customer_36,North,Electronics,Phone,4,675.97,0,2703.88,248.5
+1048,3/3/2025,Customer_38,East,Office Supplies,Printer Paper,2,194.74,0.2,311.58,18.44
+1049,2/20/2025,Customer_25,East,Electronics,Headphones,2,226.49,0.05,430.33,100.74
+1050,4/18/2025,Customer_18,North,Furniture,Cabinet,1,1035.52,0.15,880.19,190.08
+1051,2/24/2025,Customer_66,North,Electronics,Tablet,2,1135.88,0.1,2044.58,344.83
+1052,4/26/2025,Customer_54,West,Electronics,Phone,5,454.24,0.15,1930.52,503.95
+1053,3/5/2025,Customer_35,West,Office Supplies,Printer Paper,3,332.19,0.2,797.26,200.44
+1054,1/3/2025,Customer_61,South,Office Supplies,Stapler,1,776.36,0.1,698.72,137.19
+1055,4/11/2025,Customer_41,West,Office Supplies,Stapler,2,496.39,0.2,794.22,212.11
+1056,2/20/2025,Customer_33,East,Furniture,Desk,1,40.21,0.05,38.2,3.88
+1057,1/7/2025,Customer_68,East,Electronics,Headphones,1,195.82,0,195.82,15.27
+1058,1/21/2025,Customer_33,North,Electronics,Laptop,3,862.01,0.1,2327.43,273.33
+1059,3/14/2025,Customer_14,West,Electronics,Phone,5,794.12,0.05,3772.07,242.44
+1060,2/8/2025,Customer_21,South,Office Supplies,Pen Pack,1,42.24,0.05,40.13,7.34
+1061,1/18/2025,Customer_48,East,Office Supplies,Stapler,2,274.15,0.1,493.47,140.22
+1062,1/4/2025,Customer_20,East,Office Supplies,Notebook,4,284.98,0.2,911.94,54.57
+1063,3/30/2025,Customer_8,South,Furniture,Cabinet,1,809.55,0.05,769.07,61.93
+1064,3/1/2025,Customer_7,South,Office Supplies,Stapler,1,33.46,0.15,28.44,4.64
+1065,1/14/2025,Customer_67,East,Office Supplies,Printer Paper,3,133.89,0.05,381.59,108.17
+1066,4/24/2025,Customer_17,East,Office Supplies,Notebook,5,961.9,0.2,3847.6,496.49
+1067,1/9/2025,Customer_33,South,Office Supplies,Notebook,4,222.47,0.2,711.9,125.87
+1068,3/31/2025,Customer_48,East,Office Supplies,Printer Paper,2,786.77,0.15,1337.51,80.78
+1069,2/22/2025,Customer_76,North,Office Supplies,Printer Paper,4,293.44,0.05,1115.07,97.11
+1070,1/2/2025,Customer_59,North,Electronics,Tablet,2,128.34,0.2,205.34,60.92
+1071,3/25/2025,Customer_22,South,Furniture,Desk,5,299.37,0.1,1347.16,392.4
+1072,4/2/2025,Customer_30,West,Furniture,Chair,2,869.5,0,1739,89.1
+1073,4/21/2025,Customer_38,South,Office Supplies,Printer Paper,3,1028.28,0,3084.84,888.29
+1074,3/1/2025,Customer_51,South,Office Supplies,Pen Pack,3,997.96,0,2993.88,628.06
+1075,3/12/2025,Customer_54,West,Office Supplies,Notebook,3,482.65,0.05,1375.55,367.24
+1076,2/13/2025,Customer_8,West,Office Supplies,Printer Paper,3,805.02,0.15,2052.8,336.01
+1077,1/8/2025,Customer_27,West,Office Supplies,Pen Pack,4,253.93,0.2,812.58,145.37
+1078,2/16/2025,Customer_27,North,Electronics,Tablet,5,358.85,0.1,1614.82,278.09
+1079,2/4/2025,Customer_21,East,Electronics,Laptop,2,1076.64,0.1,1937.95,419.99
+1080,3/19/2025,Customer_30,North,Office Supplies,Printer Paper,2,25.47,0.05,48.39,4.11
+1081,3/22/2025,Customer_28,East,Furniture,Chair,3,111.76,0,335.28,19.28
+1082,2/5/2025,Customer_64,North,Electronics,Tablet,3,257.38,0.05,733.53,93.15
+1083,2/19/2025,Customer_69,East,Furniture,Desk,1,41.57,0.15,35.33,7.99
+1084,4/14/2025,Customer_61,North,Electronics,Phone,5,225.91,0.15,960.12,96.46
+1085,1/4/2025,Customer_48,West,Office Supplies,Notebook,4,703.82,0.2,2252.22,491.79
+1086,1/2/2025,Customer_19,South,Electronics,Headphones,2,511.5,0.2,818.4,239.36
+1087,1/6/2025,Customer_4,North,Electronics,Phone,1,1072.28,0.15,911.44,66.97
+1088,2/23/2025,Customer_35,East,Electronics,Headphones,1,982.76,0.15,835.35,182.23
+1089,4/16/2025,Customer_64,West,Office Supplies,Pen Pack,2,416.76,0.15,708.49,114.02
+1090,1/4/2025,Customer_49,North,Furniture,Cabinet,4,318.71,0.05,1211.1,323.41
+1091,2/23/2025,Customer_17,North,Electronics,Phone,1,461.83,0.15,392.56,37.01
+1092,4/3/2025,Customer_44,West,Office Supplies,Printer Paper,1,712.45,0.1,641.21,143.09
+1093,3/4/2025,Customer_30,North,Furniture,Table,5,329,0,1645,426.92
+1094,1/18/2025,Customer_46,South,Furniture,Cabinet,4,752.74,0.15,2559.32,732.36
+1095,3/31/2025,Customer_6,North,Electronics,Phone,1,497.2,0,497.2,109.79
+1096,2/13/2025,Customer_37,South,Electronics,Laptop,4,666.94,0.05,2534.37,441.73
+1097,2/3/2025,Customer_24,South,Furniture,Chair,2,528.99,0,1057.98,216.32
+1098,3/15/2025,Customer_46,West,Office Supplies,Pen Pack,3,360.41,0.05,1027.17,274.49
+1099,3/3/2025,Customer_53,North,Office Supplies,Pen Pack,1,1138.66,0.1,1024.79,197.43
+1100,4/10/2025,Customer_60,West,Electronics,Laptop,5,918.69,0.05,4363.78,251.34
+1101,1/14/2025,Customer_63,North,Office Supplies,Notebook,2,176.73,0.05,335.79,94.94
+1102,4/5/2025,Customer_32,North,Electronics,Laptop,4,1043.48,0.2,3339.14,742.56
+1103,2/17/2025,Customer_33,East,Electronics,Tablet,2,590.04,0.15,1003.07,219.8
+1104,1/15/2025,Customer_67,North,Electronics,Phone,1,1074.52,0.15,913.34,94.91
+1105,3/13/2025,Customer_18,West,Furniture,Cabinet,4,961.83,0.1,3462.59,743.49
+1106,3/19/2025,Customer_25,South,Electronics,Phone,3,516,0.1,1393.2,206.84
+1107,3/28/2025,Customer_54,North,Office Supplies,Stapler,2,36.74,0.15,62.46,13.29
+1108,3/3/2025,Customer_58,East,Electronics,Headphones,1,329.73,0.2,263.78,20.22
+1109,2/9/2025,Customer_67,West,Furniture,Desk,5,654.54,0.15,2781.79,596.59
+1110,3/26/2025,Customer_46,North,Electronics,Laptop,4,763.84,0.2,2444.29,732.93
+1111,3/21/2025,Customer_24,West,Office Supplies,Stapler,2,316.89,0.1,570.4,35.4
+1112,4/19/2025,Customer_32,East,Furniture,Cabinet,2,175.83,0,351.66,103.49
+1113,3/23/2025,Customer_47,East,Furniture,Cabinet,3,1003.57,0.1,2709.64,411.13
+1114,4/21/2025,Customer_23,West,Office Supplies,Notebook,3,1181.44,0.1,3189.89,853.9
+1115,2/22/2025,Customer_66,North,Office Supplies,Notebook,5,635.57,0.05,3018.96,741.45
+1116,1/24/2025,Customer_27,South,Electronics,Headphones,5,214.3,0.05,1017.92,195.19
+1117,1/26/2025,Customer_2,East,Office Supplies,Printer Paper,1,334.05,0.05,317.35,74.45
+1118,3/30/2025,Customer_17,North,Electronics,Phone,1,31.88,0.05,30.29,8.17
+1119,3/1/2025,Customer_33,North,Electronics,Phone,5,1098.02,0.2,4392.08,663.36
+1120,4/19/2025,Customer_9,South,Office Supplies,Stapler,5,150.12,0.15,638.01,84.06
+1121,2/10/2025,Customer_43,East,Electronics,Headphones,4,696.05,0,2784.2,603.89
+1122,1/29/2025,Customer_48,East,Electronics,Tablet,3,336.13,0.1,907.55,228.67
+1123,1/15/2025,Customer_39,North,Furniture,Desk,1,669.47,0.2,535.58,128.84
+1124,2/14/2025,Customer_42,North,Electronics,Headphones,3,785.19,0,2355.57,587.6
+1125,3/6/2025,Customer_26,South,Office Supplies,Notebook,3,997.39,0.2,2393.74,380.35
+1126,3/30/2025,Customer_50,South,Electronics,Laptop,5,255.64,0.2,1022.56,260.2
+1127,3/12/2025,Customer_25,East,Electronics,Phone,4,23.09,0.1,83.12,6.65
+1128,1/9/2025,Customer_24,West,Electronics,Headphones,2,172.89,0.15,293.91,54.7
+1129,3/29/2025,Customer_13,East,Furniture,Cabinet,4,1081.02,0.05,4107.88,211.31
+1130,1/1/2025,Customer_60,North,Electronics,Headphones,4,1049.93,0.15,3569.76,468.16
+1131,4/18/2025,Customer_7,East,Electronics,Phone,3,720.92,0.1,1946.48,275.65
+1132,1/8/2025,Customer_57,West,Furniture,Chair,4,724.62,0.1,2608.63,388.8
+1133,3/29/2025,Customer_36,South,Furniture,Table,1,801.39,0.1,721.25,161.46
+1134,3/4/2025,Customer_45,West,Furniture,Table,3,218.69,0,656.07,96.53
+1135,1/11/2025,Customer_20,West,Furniture,Cabinet,1,1098.15,0.15,933.43,151.38
+1136,4/25/2025,Customer_65,West,Electronics,Phone,2,508.34,0.15,864.18,94.53
+1137,3/22/2025,Customer_8,South,Furniture,Desk,3,465.93,0.2,1118.23,160.26
+1138,1/8/2025,Customer_16,West,Electronics,Laptop,2,627.51,0.2,1004.02,107.25
+1139,2/4/2025,Customer_14,West,Office Supplies,Printer Paper,3,65.89,0.2,158.14,10.8
+1140,2/4/2025,Customer_76,West,Electronics,Laptop,5,207.88,0.1,935.46,187.9
+1141,2/2/2025,Customer_15,North,Office Supplies,Stapler,4,888.26,0.15,3020.08,655.52
+1142,1/5/2025,Customer_66,West,Office Supplies,Pen Pack,5,108.53,0.1,488.38,100.06
+1143,4/16/2025,Customer_32,South,Electronics,Laptop,2,727.75,0,1455.5,241.43
+1144,4/13/2025,Customer_63,West,Electronics,Laptop,4,301.97,0.2,966.3,140.06
+1145,2/10/2025,Customer_51,West,Office Supplies,Notebook,3,473.26,0.1,1277.8,339.68
+1146,1/28/2025,Customer_25,South,Office Supplies,Pen Pack,4,353.55,0.1,1272.78,228.81
+1147,1/7/2025,Customer_58,West,Furniture,Chair,1,433.25,0,433.25,73.56
+1148,3/14/2025,Customer_63,South,Office Supplies,Pen Pack,4,865.66,0.05,3289.51,185.56
+1149,3/13/2025,Customer_62,West,Office Supplies,Notebook,1,363.57,0.15,309.03,41.82
+1150,1/12/2025,Customer_22,South,Office Supplies,Notebook,4,684.02,0.05,2599.28,377.02
+1151,2/3/2025,Customer_58,West,Furniture,Table,1,576.5,0.2,461.2,69.04
+1152,2/2/2025,Customer_58,West,Furniture,Desk,2,799.77,0.1,1439.59,280.78
+1153,2/17/2025,Customer_49,North,Office Supplies,Printer Paper,5,1124.83,0,5624.15,1031.47
+1154,4/29/2025,Customer_52,North,Electronics,Tablet,3,881.76,0,2645.28,534.28
+1155,1/23/2025,Customer_42,West,Furniture,Desk,4,265.78,0.15,903.65,217.98
+1156,3/3/2025,Customer_70,West,Office Supplies,Printer Paper,5,47.11,0.05,223.77,56.67
+1157,3/29/2025,Customer_15,East,Furniture,Table,3,322.09,0.15,821.33,188.52
+1158,2/6/2025,Customer_54,South,Electronics,Laptop,3,718.14,0.1,1938.98,560.13
+1159,4/9/2025,Customer_60,East,Furniture,Chair,1,71.2,0.15,60.52,3.3
+1160,2/13/2025,Customer_8,North,Electronics,Phone,2,600.68,0,1201.36,118.87
+1161,4/14/2025,Customer_53,North,Office Supplies,Printer Paper,2,720.24,0,1440.48,74.75
+1162,3/27/2025,Customer_60,North,Electronics,Tablet,5,407.75,0.2,1631,345.56
+1163,4/1/2025,Customer_5,North,Electronics,Phone,2,927.39,0.2,1483.82,407.32
+1164,2/4/2025,Customer_68,West,Furniture,Table,4,136.85,0.1,492.66,54.62
+1165,3/6/2025,Customer_6,North,Electronics,Headphones,2,99.41,0.05,188.88,53.22
+1166,4/9/2025,Customer_47,West,Office Supplies,Printer Paper,5,876.54,0.15,3725.29,242.39
+1167,4/11/2025,Customer_55,West,Office Supplies,Notebook,2,599.63,0.1,1079.33,306.11
+1168,2/16/2025,Customer_40,North,Office Supplies,Printer Paper,4,829.2,0.2,2653.44,365.92
+1169,3/19/2025,Customer_52,North,Office Supplies,Notebook,1,527.44,0.15,448.32,33.78
+1170,1/3/2025,Customer_16,South,Electronics,Tablet,5,303.22,0.2,1212.88,207.97
+1171,1/1/2025,Customer_13,East,Electronics,Laptop,1,984.73,0.15,837.02,95.58
+1172,1/5/2025,Customer_30,North,Office Supplies,Pen Pack,1,961.3,0.05,913.23,110.7
+1173,3/31/2025,Customer_19,South,Furniture,Table,1,836.69,0.1,753.02,95.5
+1174,4/29/2025,Customer_17,South,Office Supplies,Pen Pack,3,333.85,0.15,851.32,213.47
+1175,1/14/2025,Customer_63,East,Office Supplies,Printer Paper,3,712.37,0,2137.11,394.92
+1176,4/13/2025,Customer_19,West,Electronics,Tablet,1,439.56,0,439.56,56.19
+1177,1/27/2025,Customer_58,North,Office Supplies,Stapler,5,118.98,0.15,505.66,102.44
+1178,1/9/2025,Customer_55,East,Furniture,Chair,4,1101.6,0.15,3745.44,857.85
+1179,3/20/2025,Customer_62,North,Electronics,Headphones,4,172.81,0.15,587.55,69.42
+1180,1/15/2025,Customer_23,South,Furniture,Chair,2,1140.78,0,2281.56,349.96
+1181,3/31/2025,Customer_9,South,Electronics,Tablet,5,540.75,0,2703.75,217.57
+1182,2/11/2025,Customer_12,West,Electronics,Tablet,3,230.31,0.15,587.29,55.96
+1183,3/18/2025,Customer_1,South,Electronics,Headphones,1,654.86,0.2,523.89,115.4
+1184,2/20/2025,Customer_58,South,Office Supplies,Stapler,2,1048.81,0.2,1678.1,160.02
+1185,3/4/2025,Customer_1,East,Office Supplies,Notebook,4,881.35,0.05,3349.13,607.17
+1186,4/6/2025,Customer_34,North,Electronics,Laptop,3,969.81,0.1,2618.49,595.08
+1187,4/13/2025,Customer_48,North,Office Supplies,Pen Pack,3,793.95,0.2,1905.48,146.19
+1188,4/23/2025,Customer_1,East,Office Supplies,Notebook,1,833.81,0,833.81,159.95
+1189,2/21/2025,Customer_16,West,Furniture,Desk,4,1020.54,0.2,3265.73,372.75
+1190,4/6/2025,Customer_61,North,Furniture,Desk,5,307.1,0.05,1458.72,424.1
+1191,1/4/2025,Customer_64,South,Electronics,Tablet,3,592.42,0.05,1688.4,288.52
+1192,4/4/2025,Customer_63,North,Furniture,Chair,1,273.24,0.1,245.92,61.85
+1193,4/11/2025,Customer_69,South,Furniture,Desk,5,1185.32,0.2,4741.28,889.26
+1194,1/23/2025,Customer_22,West,Office Supplies,Pen Pack,4,1133.43,0,4533.72,275.89
+1195,4/13/2025,Customer_67,East,Office Supplies,Notebook,3,56.92,0,170.76,35.57
+1196,4/19/2025,Customer_76,North,Furniture,Cabinet,5,849.63,0.15,3610.93,1039.41
+1197,1/15/2025,Customer_26,East,Office Supplies,Pen Pack,5,1111.05,0,5555.25,1113.29
+1198,2/12/2025,Customer_16,North,Electronics,Phone,5,224.88,0.1,1011.96,257.84
+1199,1/29/2025,Customer_51,South,Electronics,Headphones,3,685.85,0.1,1851.8,501.93
+1200,2/5/2025,Customer_57,East,Electronics,Phone,3,1099.43,0,3298.29,352.98
+1201,1/13/2025,Customer_29,North,Office Supplies,Printer Paper,2,50.4,0,100.8,10.38
+1202,2/1/2025,Customer_78,South,Furniture,Desk,4,839.93,0.15,2855.76,578.99
+1203,3/12/2025,Customer_69,East,Furniture,Desk,1,363.85,0,363.85,55.58
+1204,2/28/2025,Customer_47,East,Office Supplies,Notebook,5,1110.03,0.15,4717.63,1226.42
+1205,4/25/2025,Customer_62,North,Furniture,Chair,2,1165.56,0.15,1981.45,544.91
+1206,3/27/2025,Customer_69,North,Furniture,Desk,1,1133.68,0,1133.68,156.85
+1207,1/28/2025,Customer_76,North,Electronics,Headphones,2,574.31,0.05,1091.19,119.18
+1208,3/7/2025,Customer_16,South,Furniture,Table,3,1035.83,0.05,2952.12,723.66
+1209,2/11/2025,Customer_48,North,Electronics,Phone,5,1015.01,0.15,4313.79,512.05
+1210,2/14/2025,Customer_39,East,Electronics,Phone,1,389.73,0,389.73,99.64
+1211,3/3/2025,Customer_33,East,Furniture,Table,1,996.41,0.05,946.59,147.61
+1212,2/26/2025,Customer_23,North,Furniture,Chair,1,54.04,0,54.04,11.72
+1213,4/27/2025,Customer_10,North,Furniture,Table,1,719.56,0,719.56,53.16
+1214,1/6/2025,Customer_69,West,Office Supplies,Stapler,1,283.71,0,283.71,58.43
+1215,1/28/2025,Customer_34,East,Office Supplies,Printer Paper,2,153.47,0.2,245.55,40.01
+1216,1/28/2025,Customer_52,South,Electronics,Laptop,5,101.57,0,507.85,99.87
+1217,4/18/2025,Customer_10,West,Furniture,Desk,3,838.58,0.2,2012.59,185.17
+1218,2/13/2025,Customer_19,North,Office Supplies,Printer Paper,3,414.45,0.15,1056.85,247.53
+1219,3/25/2025,Customer_58,North,Electronics,Laptop,3,872.47,0.05,2486.54,660.67
+1220,1/30/2025,Customer_1,East,Office Supplies,Stapler,3,87.77,0.05,250.14,26.06
+1221,3/3/2025,Customer_69,North,Furniture,Table,2,385.2,0.05,731.88,54.11
+1222,3/16/2025,Customer_4,South,Furniture,Chair,4,651.99,0.05,2477.56,138.52
+1223,4/29/2025,Customer_16,East,Furniture,Desk,5,950.96,0.05,4517.06,950.81
+1224,4/2/2025,Customer_24,North,Furniture,Chair,1,389.32,0.05,369.85,74.63
+1225,3/30/2025,Customer_2,East,Office Supplies,Stapler,4,754.81,0.05,2868.28,535.43
+1226,4/13/2025,Customer_32,North,Electronics,Phone,3,1064.31,0.15,2713.99,293.08
+1227,3/3/2025,Customer_24,North,Furniture,Cabinet,4,742.88,0,2971.52,438.97
+1228,4/7/2025,Customer_12,North,Electronics,Tablet,5,287.22,0.1,1292.49,256.71
+1229,1/1/2025,Customer_50,South,Office Supplies,Printer Paper,1,39.04,0.2,31.23,5.44
+1230,1/27/2025,Customer_35,South,Office Supplies,Notebook,1,1045.42,0.1,940.88,279.39
+1231,3/3/2025,Customer_33,East,Office Supplies,Printer Paper,5,35.31,0.1,158.9,13.36
+1232,4/26/2025,Customer_33,North,Office Supplies,Printer Paper,5,1050.89,0,5254.45,1175.87
+1233,3/18/2025,Customer_61,North,Office Supplies,Stapler,3,639.44,0,1918.32,289.82
+1234,4/15/2025,Customer_51,South,Furniture,Cabinet,1,1127.49,0,1127.49,177.07
+1235,1/3/2025,Customer_43,North,Office Supplies,Printer Paper,4,960.55,0.05,3650.09,837.33
+1236,4/13/2025,Customer_12,South,Office Supplies,Pen Pack,2,1197.54,0.15,2035.82,454.21
+1237,3/11/2025,Customer_67,North,Electronics,Headphones,2,427.35,0.05,811.96,241.81
+1238,3/13/2025,Customer_65,East,Office Supplies,Stapler,5,922.95,0.15,3922.54,322.03
+1239,1/27/2025,Customer_33,North,Office Supplies,Pen Pack,3,488.3,0.15,1245.16,94.67
+1240,1/9/2025,Customer_40,North,Office Supplies,Printer Paper,2,581.05,0.1,1045.89,241.69
+1241,3/3/2025,Customer_74,West,Furniture,Chair,1,756.73,0.1,681.06,132.53
+1242,2/6/2025,Customer_43,South,Furniture,Table,5,1049.68,0.15,4461.14,528.82
+1243,4/7/2025,Customer_44,North,Electronics,Headphones,4,1181.06,0.15,4015.6,280.51
+1244,2/20/2025,Customer_29,North,Office Supplies,Printer Paper,5,924.25,0.05,4390.19,313.52
+1245,4/16/2025,Customer_13,West,Furniture,Cabinet,4,507.14,0.05,1927.13,527.16
+1246,2/13/2025,Customer_12,West,Furniture,Desk,5,511.41,0.1,2301.35,225.46
+1247,1/24/2025,Customer_46,South,Office Supplies,Stapler,5,887.72,0,4438.6,580.76
+1248,3/20/2025,Customer_2,West,Office Supplies,Pen Pack,5,294.14,0.15,1250.09,133.34
+1249,2/28/2025,Customer_35,East,Office Supplies,Notebook,4,141.46,0.05,537.55,74.58
+1250,4/28/2025,Customer_8,West,Furniture,Table,4,432,0.1,1555.2,104.75
+1251,2/1/2025,Customer_26,East,Electronics,Phone,5,351.81,0.05,1671.1,300.4
+1252,4/6/2025,Customer_74,South,Office Supplies,Printer Paper,2,362.61,0.15,616.44,41.24
+1253,3/29/2025,Customer_34,South,Electronics,Phone,3,287.99,0.15,734.37,183.66
+1254,4/15/2025,Customer_7,South,Electronics,Laptop,3,60.09,0.2,144.22,15.64
+1255,2/21/2025,Customer_68,South,Electronics,Phone,3,31.27,0,93.81,17.36
+1256,4/23/2025,Customer_58,South,Furniture,Chair,4,1185.39,0.2,3793.25,1024.25
+1257,3/3/2025,Customer_75,East,Furniture,Cabinet,4,519.05,0.1,1868.58,397.48
+1258,4/23/2025,Customer_29,East,Office Supplies,Pen Pack,2,467.35,0.05,887.96,162.71
+1259,2/27/2025,Customer_36,South,Office Supplies,Stapler,3,818.78,0.1,2210.71,289.79
+1260,2/21/2025,Customer_21,West,Furniture,Cabinet,3,269.72,0.15,687.79,91.65
+1261,1/12/2025,Customer_36,North,Electronics,Phone,5,1140.45,0.2,4561.8,991.61
+1262,2/8/2025,Customer_10,South,Office Supplies,Notebook,4,945.75,0.2,3026.4,903.49
+1263,1/2/2025,Customer_73,West,Electronics,Headphones,3,116.4,0.2,279.36,60.19
+1264,1/3/2025,Customer_24,North,Electronics,Phone,2,506.92,0.1,912.46,172.86
+1265,4/23/2025,Customer_64,South,Office Supplies,Stapler,2,1056.15,0.15,1795.46,417.74
+1266,4/11/2025,Customer_49,South,Electronics,Phone,3,1134.23,0.05,3232.56,537.58
+1267,4/23/2025,Customer_36,East,Electronics,Headphones,4,566.21,0.05,2151.6,139.93
+1268,2/25/2025,Customer_24,North,Electronics,Headphones,2,739.96,0.1,1331.93,253.83
+1269,3/22/2025,Customer_23,North,Office Supplies,Printer Paper,5,208.77,0.2,835.08,241.68
+1270,2/28/2025,Customer_62,West,Furniture,Cabinet,2,1189.49,0,2378.98,223.21
+1271,4/23/2025,Customer_37,East,Office Supplies,Stapler,1,285.69,0.1,257.12,57.21
+1272,1/2/2025,Customer_12,East,Electronics,Headphones,1,1131.85,0.1,1018.66,102.1
+1273,1/2/2025,Customer_55,East,Furniture,Table,4,783.08,0.15,2662.47,489.78
+1274,4/2/2025,Customer_13,East,Electronics,Tablet,3,733.21,0.05,2089.65,154.99
+1275,2/23/2025,Customer_23,North,Office Supplies,Stapler,4,620.1,0.1,2232.36,362.97
+1276,3/28/2025,Customer_30,North,Office Supplies,Pen Pack,4,284.5,0.1,1024.2,244.83
+1277,4/11/2025,Customer_17,South,Furniture,Cabinet,4,220.07,0.2,704.22,96.4
+1278,4/6/2025,Customer_62,South,Electronics,Tablet,4,272.38,0.2,871.62,188.47
+1279,4/7/2025,Customer_13,East,Electronics,Tablet,5,231.86,0,1159.3,288.51
+1280,1/1/2025,Customer_59,East,Furniture,Table,5,937.71,0.15,3985.27,1123.03
+1281,1/19/2025,Customer_19,East,Office Supplies,Notebook,2,426.65,0,853.3,92.72
+1282,1/2/2025,Customer_49,South,Electronics,Phone,1,78.83,0.2,63.06,9.45
+1283,2/22/2025,Customer_12,West,Electronics,Headphones,4,1163.23,0.05,4420.27,389.44
+1284,2/13/2025,Customer_61,West,Office Supplies,Pen Pack,2,1061.71,0.2,1698.74,506.43
+1285,3/31/2025,Customer_19,South,Office Supplies,Pen Pack,1,1114.03,0.15,946.93,266.8
+1286,2/1/2025,Customer_76,South,Electronics,Headphones,3,1193.94,0.2,2865.46,530.08
+1287,3/11/2025,Customer_9,South,Furniture,Table,5,216.94,0.15,922,240.19
+1288,2/1/2025,Customer_71,South,Office Supplies,Stapler,1,481.53,0.15,409.3,73.77
+1289,4/29/2025,Customer_28,South,Furniture,Chair,3,912.3,0.15,2326.36,478.99
+1290,3/9/2025,Customer_78,South,Electronics,Headphones,1,838.26,0.15,712.52,51.5
+1291,2/24/2025,Customer_52,East,Furniture,Chair,5,193.14,0.15,820.84,196.03
+1292,3/16/2025,Customer_16,East,Office Supplies,Stapler,5,980.84,0.05,4658.99,381.7
+1293,2/25/2025,Customer_69,East,Furniture,Chair,2,277.08,0,554.16,142.15
+1294,1/17/2025,Customer_12,East,Furniture,Table,4,276.34,0.1,994.82,244.24
+1295,2/7/2025,Customer_25,South,Furniture,Cabinet,1,649,0,649,147.44
+1296,1/24/2025,Customer_52,West,Office Supplies,Pen Pack,1,715.6,0.15,608.26,35.91
+1297,3/10/2025,Customer_53,North,Furniture,Desk,3,700.3,0.05,1995.85,251.04
+1298,4/26/2025,Customer_23,South,Furniture,Cabinet,5,118.87,0.2,475.48,55.05
+1299,4/8/2025,Customer_16,North,Furniture,Chair,1,1054.18,0.05,1001.47,140.24
+1300,3/11/2025,Customer_57,West,Furniture,Table,5,326.06,0.15,1385.76,99.65
